@@ -24,7 +24,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
       "messagingUrl": "https://messaging.botpress.cloud",
       "clientId": "9fc434b6-d151-4d04-897a-51d6cc161541",
       "webhookId": "931c5214-6895-48cf-b9d5-eae7538a1e6c",
-       
         "lazySocket": true,
         "showBotInfoPage": true,
         "avatarUrl": "https://play-lh.googleusercontent.com/XMWHlx11Yfd7q1624ic0BBMgB8cJ-c3usY_p3ZneMGUBJZagK-uoeyfXmXeOeuA0b3c",
